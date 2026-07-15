@@ -89,3 +89,16 @@ http://localhost:8080
    git clone [https://github.com/adkm299-user/project_kuliner.git](https://github.com/adkm299-user/project_kuliner.git)
    cd project_kuliner.git
    ```
+
+## Akun Demo
+
+### Admin
+
+Email : admin@kuliner.com
+Password : admin123
+
+### User
+
+Email : freya@kuliner.com
+username : freya
+Password : 123456
